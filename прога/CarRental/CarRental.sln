@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRental", "CarRental.csproj", "{5430013B-D617-4BF6-AA2B-CF872CAAA472}"
+	ProjectSection(ProjectDependencies) = postProject
+		{165BAC93-8E22-475B-BFEB-4738E038B96C} = {165BAC93-8E22-475B-BFEB-4738E038B96C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "..\Entities\Entities.csproj", "{165BAC93-8E22-475B-BFEB-4738E038B96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5430013B-D617-4BF6-AA2B-CF872CAAA472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5430013B-D617-4BF6-AA2B-CF872CAAA472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5430013B-D617-4BF6-AA2B-CF872CAAA472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5430013B-D617-4BF6-AA2B-CF872CAAA472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165BAC93-8E22-475B-BFEB-4738E038B96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165BAC93-8E22-475B-BFEB-4738E038B96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165BAC93-8E22-475B-BFEB-4738E038B96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165BAC93-8E22-475B-BFEB-4738E038B96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709BEDBF-1EA4-49B8-A10E-BA6408FBFDE9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\user\source\repos\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\user\source\repos\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\user\source\repos\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\Alex\Desktop\БД прокат авто\прога\Entities\obj\Debug\net7.0\ref\Entities.dll

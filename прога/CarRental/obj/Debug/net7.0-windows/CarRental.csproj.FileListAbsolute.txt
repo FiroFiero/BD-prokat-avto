@@ -1,0 +1,53 @@
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\CarRental.exe
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\CarRental.deps.json
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\CarRental.runtimeconfig.json
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\CarRental.dll
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\CarRental.pdb
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\Entities.dll
+C:\Users\user\source\repos\CarRental\bin\Debug\net7.0-windows\Entities.pdb
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.Form1.resources
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.AssemblyInfo.cs
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.CopyComplete
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.dll
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\refint\CarRental.dll
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.pdb
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.genruntimeconfig.cache
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\ref\CarRental.dll
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.Form2.resources
+C:\Users\user\source\repos\CarRental\obj\Debug\net7.0-windows\CarRental.Form3.resources
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\CarRental.exe
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\CarRental.deps.json
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\CarRental.runtimeconfig.json
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\CarRental.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\CarRental.pdb
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\Entities.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\bin\Debug\net7.0-windows\Entities.pdb
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.Form1.resources
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.Form2.resources
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.Form3.resources
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.AssemblyInfo.cs
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.csproj.Up2Date
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\refint\CarRental.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.pdb
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.genruntimeconfig.cache
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\ref\CarRental.dll
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.Form4.resources
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.Form5.resources
+C:\Users\Alex\Desktop\БД прокат авто\прога\CarRental\obj\Debug\net7.0-windows\CarRental.Properties.Resources.resources
